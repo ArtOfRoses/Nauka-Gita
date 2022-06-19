@@ -1,6 +1,6 @@
 # start
 
 - lista
--b
+- b
 
 # koniec
